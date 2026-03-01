@@ -15,12 +15,16 @@ title: My website
 # Your name to show in the footer
 author: Some Person
 
+# Site URL settings (important for project pages)
+url: "https://crigble.github.io"
+baseurl: "/111703041"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/aboutme/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
