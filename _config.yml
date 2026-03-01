@@ -24,7 +24,10 @@ baseurl: "/111703041"
 ###############################################
 
 navbar-links:
+  Home: "/"
   About Me: "/aboutme/"
+  Work: "/work/"
+  Paper: "/paper/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
