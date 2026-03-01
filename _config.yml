@@ -27,7 +27,7 @@ navbar-links:
   Home: "/"
   About Me: "/aboutme/"
   Work: 
-    - Hw 01: "/work/hw01/"
+    - Hw 01: "/work/hw-01/"
   Paper: "/paper/"
 
 ################
