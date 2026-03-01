@@ -26,7 +26,8 @@ baseurl: "/111703041"
 navbar-links:
   Home: "/"
   About Me: "/aboutme/"
-  Work: "/work/"
+  Work: 
+    - Hw 01: "/work/hw01/"
   Paper: "/paper/"
 
 ################
