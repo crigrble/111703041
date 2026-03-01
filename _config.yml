@@ -24,11 +24,11 @@ baseurl: "/111703041"
 ###############################################
 
 navbar-links:
-  Home: "/"
-  Work: "/work/"
-  Paper: "/paper/"
-  Contact: "/contact/"
   About Me: "/aboutme/"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
